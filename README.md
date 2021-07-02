@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusukeabe
 - 👀 I’m interested in latest modern basic programming etc
-- 🌱 I’m currently learning lot of latest basic proggraming stuff 
+- 🌱 I’m currently learning lot of latest basic programming stuff 
 - 💞️ I’m looking to collaborate on anything of fun stuff
 - 📫 How to reach me ...(later)
 
